@@ -1,6 +1,4 @@
-# Deploy OracleDB on Docker Desktop to test Korean Sample Data
-
-# Oracle Docker 한글 샘플 데이터 적재 및 UTF-8 JSON Export 가이드
+# Oracle DB에 한글 샘플 데이터를 이용해 euc-kr을 UTF-8 JSON Export 가이드(Docker Desktop 활용)
 
 이 문서는 Docker Desktop에서 Oracle Free 데이터베이스를 실행하고, 한글 행정동 샘플 데이터를 CP949 파일로 변환한 뒤 SQL*Loader로 적재하고, 최종적으로 UTF-8 JSON 파일로 export하는 과정을 정리한 가이드입니다.
 
